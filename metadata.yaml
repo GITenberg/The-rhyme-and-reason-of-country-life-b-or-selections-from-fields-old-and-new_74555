@@ -1,0 +1,32 @@
+_repo: The-rhyme-and-reason-of-country-life-b-or-selections-from-fields-old-and-new_74555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, Susan Fenimore
+    alias: Penfeather, Amabel
+    birthdate: 1813
+    deathdate: 1894
+    gutenberg_agent_id: '753'
+    url: http://www.gutenberg.org/2009/agents/753
+    wikipedia: https://en.wikipedia.org/wiki/Susan_Fenimore_Cooper
+description: ''
+gutenberg_issued: '2024-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74555'
+language: en
+pgterms:marc904: https://archive.org/details/rhymereasonofcou00cooprich/page/n9/mode/2up
+pgterms:marc905: 20221219172132cooper
+pgterms:marc906: '1854'
+pgterms:marc907: US
+production_note: Richard Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam & Co., $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The rhyme and reason of country life : $b or, selections from fields old and
+  new'
+url: http://www.gutenberg.org/ebooks/74555
