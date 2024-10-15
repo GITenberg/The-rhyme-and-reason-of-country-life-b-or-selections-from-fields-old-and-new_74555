@@ -1,5 +1,8 @@
 _repo: The-rhyme-and-reason-of-country-life-b-or-selections-from-fields-old-and-new_74555
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74555-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooper, Susan Fenimore
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/753
     wikipedia: https://en.wikipedia.org/wiki/Susan_Fenimore_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74555#The-rhyme-and-reason-of-country-life-b-or-selections-from-fields-old-and-new
 gutenberg_issued: '2024-10-10'
 gutenberg_type: Text
 identifiers:
